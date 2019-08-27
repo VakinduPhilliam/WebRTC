@@ -9,4 +9,6 @@
  
  Jitsi Meet allows for very efficient collaboration. 
  
- It allows users to stream their desktop or only some windows. It also supports shared document editing with Etherpad. ## Installation On the client side, no installation is necessary. You just point your browser to the URL of your deployment.  Compiled and presented by Vakindu Philliam.
+ It allows users to stream their desktop or only some windows. 
+ 
+ It also supports shared document editing with Etherpad. ## Installation On the client side, no installation is necessary. You just point your browser to the URL of your deployment.  Compiled and presented by Vakindu Philliam.
